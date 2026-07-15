@@ -1,5 +1,4 @@
-# Adapted from https://github.com/CorentinJ/Real-Time-Voice-Cloning
-# MIT License
+
 from typing import List, Union, Optional
 
 import numpy as np

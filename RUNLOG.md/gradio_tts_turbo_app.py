@@ -11,9 +11,7 @@ EVENT_TAGS = [
     "[sniff]", "[gasp]", "[chuckle]", "[laugh]"
 ]
 
-# --- REFINED CSS ---
-# 1. tag-container: Forces the row to wrap items instead of scrolling. Removes borders/backgrounds.
-# 2. tag-btn: Sets the specific look (indigo theme) and stops them from stretching.
+
 CUSTOM_CSS = """
 .tag-container {
     display: flex !important;
